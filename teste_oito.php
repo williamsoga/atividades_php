@@ -10,7 +10,7 @@
         Dia e noite
     </h1>
     <?php 
-    date_default_timezone_set("America/Sao Paulo ");
+    date_default_timezone_set("America/Sao_Paulo");
     $hoje=date ("d/m/y");
     $agora= date("H:i");
     $hora=date("H");
